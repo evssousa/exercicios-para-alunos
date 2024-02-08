@@ -23,7 +23,7 @@
 <div>
     Algumas informações importantes:
     <ol>
-        <li>Reescreva todo o texto e replique o site conforme mostrado no link.</li>
+        <li>Reescreva todo o texto e replique o site conforme mostrado na imagem.</li>
         <li>Ao termino do projeto, publique no seu github.</li>
         <li>Não faça fork do projeto do coleguinha!</li>
         <li>Todos os alunos deverão publicar em seus github (nada de dois fazerem o projeto, postarem em um github e dizer que fez em dupla).</li>
