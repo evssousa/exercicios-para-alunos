@@ -10,8 +10,8 @@
 </div>
 <br>
 <div>
-    Crie uma pagina HTML replicando a imagem de referência no link a seguir:<br>
-    Link: <img src="https://i.imgur.com/NyhhDFg.png">
+    Crie uma pagina HTML replicando a imagem de referência abaixo:<br>
+    <img src="https://i.imgur.com/NyhhDFg.png">
 </div>
 <br>
 <div>
