@@ -13,6 +13,7 @@
     <p>Crie um site de marcação de viagem a Fernando de Noronha, utilizando os conteúdos estudados em sala de aula.</p>
     <p>Imagens do projeto:</p>
     <img src="https://i.imgur.com/sJCqpIU.png" alt="tela 1">
+    <p>Link da imagem: https://i.imgur.com/sJCqpIU.png</p>
 </div><br>
 
 <div>
