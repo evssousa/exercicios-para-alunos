@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./src/css/style.css">
+    <script src="./src/js/script.js" defer></script>
+    <title>Calc.js</title>
+</head>
+<body>
+    <main data-theme="dark">
+        <header class="flex align-center justify-between">
+            <h1>Calc.js</h1>
+            <button id="themeSwitcher">Tema claro/escuro</button>
+        </header>
+        <input type="text" id="input">
+        <div id="keys">
+            <button id="clear">C</button>
+            <button class="charKey" data-value=" ( ">(</button>
+            <button class="charKey" data-value=" ) ">)</button>
+            <button class="charKey" data-value=" / ">/</button>
+            <button class="charKey" data-value="7">7</button>
+            <button class="charKey" data-value="8">8</button>
+            <button class="charKey" data-value="9">9</button>
+            <button class="charKey" data-value=" * ">*</button>
+            <button class="charKey" data-value="4">4</button>
+            <button class="charKey" data-value="5">5</button>
+            <button class="charKey" data-value="6">6</button>
+            <button class="charKey" data-value=" - ">-</button>
+            <button class="charKey" data-value="1">1</button>
+            <button class="charKey" data-value="2">2</button>
+            <button class="charKey" data-value="3">3</button>
+            <button class="charKey" data-value=" + ">+</button>
+            <button class="charKey" data-value="0">0</button>
+            <button class="charKey" data-value=".">.</button>
+            <button class="charKey" data-value=" % ">mod</button>
+            <button id="equal">=</button>
+        </div>
+        <section class="flex align-center justify-between">
+            <button id="copyToClipboard">Copiar</button>
+            <input type="text" id="result" disabled>
+        </section>
+    </main>
+</body>
+</html>
