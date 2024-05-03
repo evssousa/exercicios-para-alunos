@@ -6,7 +6,7 @@
 
 <div>
     <strong>PROJETO 7 – CADASTRO DE DEVS</strong><br>
-    <strong>DATA DE ENTREGA:</strong> 30/ABR, até às 23:59.
+    <strong>DATA DE ENTREGA:</strong> 13/MAI, até às 23:59.
 </div><br>
 
 <div>
