@@ -1,0 +1,8 @@
+// Includes
+.textBuy {
+    @include text-style($primary-color, 22px, Arial)
+}
+
+.btn {
+    @include btn-style(10px 15px, 1px solid red, $secundary-color)
+}

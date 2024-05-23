@@ -1,0 +1,23 @@
+.lista ul {
+  background-color: red;
+}
+.lista li {
+  background-color: blue;
+}
+.lista button {
+  background-color: darkblue;
+  color: white;
+}
+.lista button:hover {
+  background-color: #9090df;
+  transition: 1s;
+}
+
+.item ol {
+  background-color: green;
+}
+.item li {
+  background-color: violet;
+}
+
+/*# sourceMappingURL=style.css.map */

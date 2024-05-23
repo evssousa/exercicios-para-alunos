@@ -1,0 +1,25 @@
+.lista {
+    ul {
+        background-color: red;
+    }
+    li {
+        background-color: blue;
+    }
+    button {
+        background-color: darkblue;
+        color: white;
+        &:hover {
+            background-color: #9090df;
+            transition: 1s;
+        }
+    }
+}
+
+.item {
+    ol {
+        background-color: green;
+    }
+    li {
+        background-color: violet;
+    }
+}
