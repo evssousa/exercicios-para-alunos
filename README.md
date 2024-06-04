@@ -20,8 +20,9 @@ Boas práticas!
 - Projeto Comentado: Calc.js (09/mai) - 1pt
 - Projeto 7: cadastro de devs (13/mai) - 1pt
 - Requisitos Individuais (05/jun) - 2pts + 1pt extra se completo
-- Continuação do desenvolvimento do site utilizando conhecimentos vistos em sala de aula e dos projeots desenvolvidos, sendo obrigatório a inclusão de Javascript de forma que dê funcionalidade ao site. - 5 pts
+- Continuação do desenvolvimento do site utilizando conhecimentos vistos em sala de aula e dos projeots desenvolvidos, sendo obrigatório a inclusão de Javascript de forma que dê funcionalidade ao site (06/jun) - 5 pts
 
 ### Gestão de Startup
-- Projeto: Minha Startup (03/jun) - 8pt
-- Trabalho: Análise Gráfica: SWOT e CSD - 2pt
+- Projeto: Minha Startup (03/jun) - 6pt
+- Trabalho: Análise Gráfica: SWOT e CSD (03/jun) - 2pt
+- Entrega dos cadernos de campo (05/jun) 2pt
