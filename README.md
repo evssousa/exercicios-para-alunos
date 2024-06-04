@@ -23,6 +23,6 @@ Boas práticas!
 - Continuação do desenvolvimento do site utilizando conhecimentos vistos em sala de aula e dos projeots desenvolvidos, sendo obrigatório a inclusão de Javascript de forma que dê funcionalidade ao site (06/jun) - 5 pts
 
 ### Gestão de Startup
-- Projeto Instagram: Minha Startup (03/jun) - 6pt
+- Projeto Instagram: Minha Startup (03/jun) - variável, max 6pt (seg * 6 / 100)
 - Trabalho: Análise Gráfica: SWOT e CSD (03/jun) - 2pt
 - Entrega dos cadernos de campo (05/jun) - 2pt
