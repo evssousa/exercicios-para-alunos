@@ -25,4 +25,4 @@ Boas práticas!
 ### Gestão de Startup
 - Projeto: Minha Startup (03/jun) - 6pt
 - Trabalho: Análise Gráfica: SWOT e CSD (03/jun) - 2pt
-- Entrega dos cadernos de campo (05/jun) 2pt
+- Entrega dos cadernos de campo (05/jun) - 2pt
