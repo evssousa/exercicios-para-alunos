@@ -21,6 +21,7 @@ Boas práticas!
 - Projeto 7: cadastro de devs (13/mai) - 1pt
 - Requisitos Individuais (05/jun) - 2pts + 1pt extra se completo
 - Continuação do desenvolvimento do site utilizando conhecimentos vistos em sala de aula e dos projeots desenvolvidos, sendo obrigatório a inclusão de Javascript de forma que dê funcionalidade ao site (06/jun) - 5 pts
+- Projeto 8: portfolio de projetos (13/jun) - válido para alunos que possuem parcial abaixo de 6. Ao completar esse projeto, o aluno terá sua parcial equivalente a 6.
 
 ### Gestão de Startup
 - Projeto Instagram: Minha Startup (03/jun) - variável, max 6pt (seg * 6 / 100)

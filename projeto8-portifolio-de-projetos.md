@@ -6,7 +6,7 @@
 
 <div>
     <strong>PROJETO 8 – PORTIFOLIO DE PROJETOS</strong><br>
-    <strong>DATA DE ENTREGA:</strong> 12/JUN, até às 23:59.
+    <strong>DATA DE ENTREGA:</strong> 13/JUN, até às 23:59.
 </div><br>
 
 <div>
