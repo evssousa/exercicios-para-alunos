@@ -27,3 +27,4 @@ Boas práticas!
 - Projeto Instagram: Minha Startup (03/jun) - variável, max 6pt (seg * 6 / 100)
 - Trabalho: Análise Gráfica: SWOT e CSD (03/jun) - 2pt
 - Entrega dos cadernos de campo (05/jun) - 2pt
+- Documentação do projeto 8 (13/jun) - válido para alunos que possuem parcial abaixo de 6. Ao completar esse projeto, o aluno terá sua parcial equivalente a 6.
