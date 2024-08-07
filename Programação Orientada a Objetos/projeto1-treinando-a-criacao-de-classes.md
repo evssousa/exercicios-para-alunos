@@ -11,6 +11,8 @@
 
 <div>
     <p><b>Crie, em arquivos separados, as seguintes classes utilizando javascript:</p></b>
+</div>
+<div>
     <ul>
         <li>- User, que deverá possuir:</li>
         <ul>
@@ -20,12 +22,16 @@
             <li>- um método login, que tem como parâmetro um email e uma senha e deve comparar esses parâmetros com o email e a senha do usuário e mostrar uma mensagem no console dizendo se o login foi bem sucedido ou não;</li>
         </ul>
     </ul>
+</div>
+    
     ```
     Exemplo do console:
     John: Login sucess!
     ou
     John: Login failed!
     ```
+
+<div>
     <ul>
         <li>- Product, que deverá possuir:</li>
         <ul>
@@ -37,6 +43,8 @@
             <li>- um método calculateDiscount, que tem como parâmetro a porcentagem de desconto a ser aplicado e retorne o valor do preço com o desconto aplicado;</li>
         </ul>
     </ul>
+</div>
+
     ```
     Exemplo no console:
     Nome do produto: Notebook
@@ -47,8 +55,7 @@
     Desconto no produto: 5%
     Novo valor do produto: R$950.00
     ```
-</div><br>
-<br>
+    
 <div>
     Boas práticas! :call_me_hand:
 </div>
