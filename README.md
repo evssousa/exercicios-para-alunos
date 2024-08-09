@@ -32,3 +32,4 @@ Boas práticas!
 ## 3º bimestre:
 ### Programação Orientada a Objetos
 - Projeto 1: treinando a criação de classes (13/ago) - 0.5/cada ex (total 1pt)
+- Projeto 2: simulando um blog com classes (15/ago) - 1pt
