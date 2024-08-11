@@ -34,4 +34,6 @@ Exemplo no console do Replit:
 }
 ```
 
+⚠️ Dica: console.log somente no arquivo index.js para mostrar os resultados acima! Vamos evitar de usar console.log nas classes e deixar esse comando somente para testar nosso código (por isso o exemplo acima).
+
 Boas práticas! :call_me_hand:
