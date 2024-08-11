@@ -10,7 +10,7 @@ Você deverá criar uma classe Post e uma classe Comment, onde uma instância de
 Você também deverá criar uma classe Author, e os objetos da classe Post também devem possuir um objeto da classe Author, que é o autor do post. Além disso, os objetos da classe Author também devem possuir um array de posts (objetos da classe Post) e um métdodo específico para criação de posts, que deverá criar uma instância utilizando aquele próprio autor, incluir o post no array e então retornar o post criado.
 
 ```
-Exemplo dos consoles do Replit:
+Exemplo dos consoles no Replit:
 
 <ref *1> Author {
   name: 'John Wick',
