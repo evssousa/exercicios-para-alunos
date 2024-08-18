@@ -1,6 +1,6 @@
 #### PROFESSOR: EVERSON SOUSA | TURMA: 2º EM DESENVOLVIMENTO DE SISTEMAS
 
-DATA DE ENTREGA: até 29/AGO, às 23:59.
+DATA DE ENTREGA: até 22/AGO, às 23:59.
 # PROJETO 3 – SISTEMA DE CONTAS BANCÁRIAS
 
 ## Ex: Crie um sistema em JS de gerenciamento de contas bancárias acompanhando os tópicos abaixo:
