@@ -33,4 +33,4 @@ Boas práticas!
 ### Programação Orientada a Objetos
 - Projeto 1: treinando a criação de classes (13/ago)
 - Projeto 2: simulando um blog com classes (15/ago)
-- Projeto 3: classes para o dom (29/ago)
+- Projeto 3: sistemas de contas bancárias (22/ago)
