@@ -34,3 +34,4 @@ Boas práticas!
 - ✅ [FINALIZADO] Projeto 1: treinando a criação de classes (13/ago)
 - ✅ [FINALIZADO] Projeto 2: simulando um blog com classes (15/ago)
 - ⚠️ [EM ANDAMENTO] Projeto 3: sistemas de contas bancárias (22/ago)
+- ⚠️ [EM ANDAMENTO] Projeto 4: personagens para jogo (29/ago)
