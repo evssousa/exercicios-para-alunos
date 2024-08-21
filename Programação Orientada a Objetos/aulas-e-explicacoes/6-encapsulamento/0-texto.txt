@@ -1,0 +1,13 @@
+Encapsulamento é o princípio de impedir que determinadas partes de uma classe sejam acessíveis pelo contexto exterior.
+
+No JS existem 2 níveis de encapsulamento:
+- Público: onde o atributo/método é acessível fora da classe (nível padrão).
+- Privado: onde o atributo/método só é acessível dentro da própria classe.
+
+Para definirmos um atributo ou método como privado utilizamos um # no começo do seu nome.
+
+Todo atributo ou método que não for privado, será automaticamente público.
+
+Exemplos:
+- Uma classe tem um atributo que é definido uma vez durante a construção mas depois não pode ser alterado diretamente (usando obj.atributo = "novo valor").
+- Uma classe possui um método principal que internamente chama vários outros métodos da própria classe que não fazem sentido individualmente.
