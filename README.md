@@ -23,7 +23,7 @@ Boas práticas!
 - ✅ [FINALIZADO] Continuação do desenvolvimento do site utilizando conhecimentos vistos em sala de aula e dos projeots desenvolvidos, sendo obrigatório a inclusão de Javascript de forma que dê funcionalidade ao site (06/jun) - 5 pts
 - ✅ [FINALIZADO] <b>Projeto 8: portfolio de projetos (13/jun) - válido para alunos que possuem parcial abaixo de 6. Ao completar esse projeto, o aluno terá sua parcial equivalente a 6.</b>
 
-### Gestão de Startup
+### Gestão de Startup I
 - ✅ [FINALIZADO] Projeto Instagram: Minha Startup (03/jun) - variável, max 6pt (seg * 6 / 100)
 - ✅ [FINALIZADO] Trabalho: Análise Gráfica: SWOT e CSD (03/jun)
 - ✅ [FINALIZADO] Entrega dos cadernos de campo (05/jun)
@@ -35,3 +35,9 @@ Boas práticas!
 - ✅ [FINALIZADO] Projeto 2: simulando um blog com classes (15/ago)
 - ✅ [FINALIZADO] Projeto 3: sistemas de contas bancárias (22/ago)
 - ⚠️ [EM ANDAMENTO] Projeto 4: personagens para jogo (29/ago)
+
+### Gestão de Startup II
+- ⚠️ [EM ANDAMENTO] Projeto 1: criando uma proposta de valor - apresentação (03/set)
+
+### Segurança da Informação
+- Nenhum projeto no momento.
