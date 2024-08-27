@@ -30,6 +30,7 @@ Boas práticas!
 - ✅ [FINALIZADO] <b>Documentação do projeto 8 (13/jun) - válido para alunos que possuem parcial abaixo de 6. Ao completar esse projeto, o aluno terá sua parcial equivalente a 6.</b>
 
 ## 3º bimestre:
+Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 de setembro
 ### Programação Orientada a Objetos
 - ✅ [FINALIZADO] Projeto 1: treinando a criação de classes (13/ago)
 - ✅ [FINALIZADO] Projeto 2: simulando um blog com classes (15/ago)
