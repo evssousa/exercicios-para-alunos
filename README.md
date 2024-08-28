@@ -36,7 +36,7 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - ✅ [FINALIZADO] Projeto 2: simulando um blog com classes (15/ago)
 - ✅ [FINALIZADO] Projeto 3: sistemas de contas bancárias (22/ago)
 - ⚠️ [EM ANDAMENTO] Projeto 4: personagens para jogo (29/ago)
-- ⚠️ [EM ANDAMENTO] Projeto comentado 1: jogo (desenvolvimento em sala)
+- ⚠️ [EM ANDAMENTO] Projeto comentado 1: luta (desenvolvimento em sala)
 
 ### Gestão de Startup II
 - ⚠️ [EM ANDAMENTO] Projeto 1: criando uma proposta de valor - slide/img/pdf no Github (03/set)
