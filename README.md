@@ -38,7 +38,7 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - ⚠️ [EM ANDAMENTO] Projeto 4: personagens para jogo (29/ago)
 
 ### Gestão de Startup II
-- ⚠️ [EM ANDAMENTO] Projeto 1: criando uma proposta de valor - apresentação (03/set)
+- ⚠️ [EM ANDAMENTO] Projeto 1: criando uma proposta de valor - slide/img/pdf no Github (03/set)
 
 ### Segurança da Informação
 - Nenhum projeto no momento.
