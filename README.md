@@ -31,6 +31,9 @@ Boas práticas!
 
 ## 3º bimestre:
 Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 de setembro
+
+#### Nota parcial: (média dos projetos + média do projeto pessoal) / 2
+
 ### Programação Orientada a Objetos
 - ✅ [FINALIZADO] Projeto 1: treinando a criação de classes (13/ago)
 - ✅ [FINALIZADO] Projeto 2: simulando um blog com classes (15/ago)
