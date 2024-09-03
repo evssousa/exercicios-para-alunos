@@ -35,11 +35,12 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - ✅ [FINALIZADO] Projeto 1: treinando a criação de classes (13/ago)
 - ✅ [FINALIZADO] Projeto 2: simulando um blog com classes (15/ago)
 - ✅ [FINALIZADO] Projeto 3: sistemas de contas bancárias (22/ago)
-- ⚠️ [EM ANDAMENTO] Projeto 4: personagens para jogo (29/ago)
+- ✅ [FINALIZADO] Projeto 4: personagens para jogo (29/ago)
 - ⚠️ [EM ANDAMENTO] Projeto comentado 1: luta (desenvolvimento em sala)
 
 ### Gestão de Startup II
 - ⚠️ [EM ANDAMENTO] Projeto 1: criando uma proposta de valor - slide/img/pdf no Github (03/set)
+- ⚠️ [EM ANDAMENTO] Projeto 2: feira das profissões - (06/set) (+3 pontos extras em qualquer disciplina)
 
 ### Segurança da Informação
-- Nenhum projeto no momento.
+- ⚠️ [EM ANDAMENTO] Projeto 1: - identificação de phishing (05/set)
