@@ -46,7 +46,7 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - 👀 [EM CORREÇÃO] Projeto 2: feira das profissões - (06/set) (+3 pontos extras em qualquer disciplina)
 
 ### Segurança da Informação
-- ⚠️ [EM ANDAMENTO] Projeto 1: - identificação de phishing (10/set)
+- ⚠️ [EM ANDAMENTO] Projeto 1: - identificação de phishing (12/set)
 
 # Regras para Correção
 
