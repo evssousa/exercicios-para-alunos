@@ -40,13 +40,22 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - ✅ [FINALIZADO] Projeto 3: sistemas de contas bancárias (22/ago)
 - ✅ [FINALIZADO] Projeto 4: personagens para jogo (29/ago)
 - ⚠️ [EM ANDAMENTO] Projeto comentado 1: luta (desenvolvimento em sala)
+- ⚠️ [EM ANDAMENTO] Projeto pessoal: utilizando todos os conceitos em um projeto (apresentação na semana das avaliações parciais)
 
 ### Gestão de Startup II
 - ✅ [FINALIZADO] Projeto 1: criando uma proposta de valor - slide/img/pdf no Github (03/set)
 - 👀 [EM CORREÇÃO] Projeto 2: feira das profissões - (06/set) (+3 pontos extras em qualquer disciplina)
+- ⚠️ [EM ANDAMENTO] Projeto pessoal: minha startup - aperfeiçoamento da statup da Gestão de Startup I (apresentação na semana das avaliações parciais)
 
 ### Segurança da Informação
 - ⚠️ [EM ANDAMENTO] Projeto 1: - identificação de phishing (12/set)
+- ⚠️ [EM ANDAMENTO] Projeto pessoal: breve artigo sobre segurança da informação, em PDF, com capa e mínimo 3 folhas de conteúdo (apresentação na semana das avaliações parciais)
+  Exemplos de temas:
+  - "Estratégias de Implementação de Políticas de Segurança da Informação em Pequenas e Médias Empresas"
+  - "Criptografia na Proteção de Dados Sensíveis: Análise Comparativa de Métodos de Criptografia em Ambientes Corporativos"
+  - "Desafios e Soluções de Segurança para Dispositivos IoT: Riscos e Mitigações em Ambientes Conectados"
+  - "A Nova Realidade do Trabalho Remoto: Riscos e Boas Práticas de Cibersegurança para Empresas Distribuídas"
+  - "LGPD: Impactos e Desafios na Adaptação de Pequenas Empresas às Novas Regras de Proteção de Dados"
 
 # Regras para Correção
 
