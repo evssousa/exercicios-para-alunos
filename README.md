@@ -40,16 +40,16 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - ✅ [FINALIZADO] Projeto 3: sistemas de contas bancárias (22/ago)
 - ✅ [FINALIZADO] Projeto 4: personagens para jogo (29/ago)
 - 👀 [EM CORREÇÃO] Projeto comentado 1: luta (12/ago)
-- ⚠️ [EM ANDAMENTO] Projeto pessoal: utilizando todos os conceitos em um projeto (20/set)
+- ⚠️ [EM ANDAMENTO] Projeto pessoal: utilizando todos os conceitos em um projeto (19/set)
 
 ### Gestão de Startup II
 - ✅ [FINALIZADO] Projeto 1: criando uma proposta de valor - slide/img/pdf no Github (03/set)
 - 👀 [EM CORREÇÃO] Projeto 2: feira das profissões - (06/set) (+3 pontos extras em qualquer disciplina)
-- ⚠️ [EM ANDAMENTO] Projeto pessoal: minha startup - aperfeiçoamento da statup da Gestão de Startup I (17/set)
+- ⚠️ [EM ANDAMENTO] Projeto pessoal: minha startup - aperfeiçoamento da statup da Gestão de Startup I (16/set)
 
 ### Segurança da Informação
 - 👀 [EM CORREÇÃO] Projeto 1: - identificação de phishing (12/set)
-- ⚠️ [EM ANDAMENTO] Projeto pessoal: breve artigo sobre segurança da informação, em PDF, com capa e mínimo 3 folhas de conteúdo (19/set)
+- ⚠️ [EM ANDAMENTO] Projeto pessoal: breve artigo sobre segurança da informação, em PDF, com capa e mínimo 3 folhas de conteúdo (18/set)
   Exemplos de temas:
   - "Estratégias de Implementação de Políticas de Segurança da Informação em Pequenas e Médias Empresas"
   - "Criptografia na Proteção de Dados Sensíveis: Análise Comparativa de Métodos de Criptografia em Ambientes Corporativos"
