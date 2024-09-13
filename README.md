@@ -38,7 +38,7 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - ✅ [FINALIZADO] Projeto 1: treinando a criação de classes (13/ago)
 - ✅ [FINALIZADO] Projeto 2: simulando um blog com classes (15/ago)
 - ✅ [FINALIZADO] Projeto 3: sistemas de contas bancárias (22/ago)
-- ✅ [FINALIZADO] Projeto 4: personagens para jogo (29/ago)
+- 👀 [EM CORREÇÃO] Projeto 4: personagens para jogo (29/ago)
 - ✅ [FINALIZADO] Projeto comentado 1: luta (12/ago)
 - ⚠️ [EM ANDAMENTO] Projeto pessoal: utilizando todos os conceitos em um projeto (19/set)
 
