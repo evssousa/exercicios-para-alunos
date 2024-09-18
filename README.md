@@ -42,10 +42,10 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - ✅ [FINALIZADO] Projeto comentado 1: luta (12/ago)
 - ⚠️ [EM ANDAMENTO] Projeto pessoal: utilizando todos os conceitos em um projeto (19/set)
 
-### Gestão de Startup II
+### ✅ [FINALIZADO] Gestão de Startup II
 - ✅ [FINALIZADO] Projeto 1: criando uma proposta de valor - slide/img/pdf no Github (03/set)
-- 👀 [EM CORREÇÃO] Projeto 2: feira das profissões - (06/set) (+3 pontos extras em qualquer disciplina)
-- 👀 [EM CORREÇÃO] Projeto pessoal: minha startup - aperfeiçoamento da statup da Gestão de Startup I (16/set)
+- ✅ [FINALIZADO] Projeto 2: feira das profissões - (06/set) (+3 pontos extras em qualquer disciplina)
+- ✅ [FINALIZADO] Projeto pessoal: minha startup - aperfeiçoamento da statup da Gestão de Startup I (16/set)
 
 ### Segurança da Informação
 - ✅ [FINALIZADO] Projeto 1: - identificação de phishing (12/set)
