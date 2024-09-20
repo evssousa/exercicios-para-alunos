@@ -68,6 +68,6 @@ Para que o exercício seja devidamente corrigido, será preciso seguir os passos
 - O nome do repositório deverá estar de acordo com o exercício. Ex: projeto1-treinando-a-criacao-de-classes. Caso o repositório não esteja conforme o exemplo, será ignorado.
 - O nome dos arquivos que estão dentro do repositório deverão está conforme solicitado no exercício (se assim pedir). Caso contrário será dado como "Erro encontrado, impossível execução".
 - É preciso que, ao deixar privado, coloque o professor como colaborador. A falta desse procedimento fará com que o professor não possa ver seu exercício.
-- Ao receber um issue de "Erro encontrado", o aluno deverá responder para ter +1 chance de correção, mesmo estando fora do prazo. Depois da correção, o projeto será encerrado.
+- Ao receber um issue de "Erro encontrado", o aluno deverá responder para ter +1 chance de correção, tendo 1 semana para efetuar a correção. Depois da correção, o projeto será finalizado.
 - Se receber um issuie com "Erro encontrado", o aluno deverá obrigatoriamente após corrigir o erro, responder o issuie notificando a correção. A falta disso poderá implicar a não correção do projeto.
 - Mais regras poderão ser adicionadas posteriormente.
