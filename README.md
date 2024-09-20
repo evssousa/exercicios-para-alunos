@@ -5,7 +5,7 @@ Confira sua turma e complete o exercício no tempo estimado.
 
 Boas práticas!
 
-# O que formará sua nota?
+# 1º BIMESTRE
 ### ✅ [FINALIZADO] 1º bimestre:
 - ✅ [FINALIZADO] Projeto 1: escrevendo um artigo (15/fev)
 - ✅ [FINALIZADO] Projeto 2: criando um site com navegação (15/fev)
@@ -14,7 +14,7 @@ Boas práticas!
 - ✅ [FINALIZADO] Projeto 5: tabela de inscritos (12/mar)
 - ✅ [FINALIZADO] Desenvolvimento de um site utilizando conhecimentos vistos em sala e dos projetos desenvolvidos.
 
-## 2º bimestre:
+# 2º BIMESTRE
 ### ✅ [FINALIZADO] Programação Web
 - ✅ [FINALIZADO] Projeto 6: sistema de login (23/abr)
 - ✅ [FINALIZADO] Projeto Comentado: Calc.js (09/mai)
@@ -29,7 +29,7 @@ Boas práticas!
 - ✅ [FINALIZADO] Entrega dos cadernos de campo (05/jun)
 - ✅ [FINALIZADO] <b>Documentação do projeto 8 (13/jun) - válido para alunos que possuem parcial abaixo de 6. Ao completar esse projeto, o aluno terá sua parcial equivalente a 6.</b>
 
-## 3º bimestre:
+# 3º BIMESTRE
 Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 de setembro
 
 #### Nota parcial: (média dos projetos + média do projeto pessoal) / 2
@@ -56,6 +56,8 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
   - "Desafios e Soluções de Segurança para Dispositivos IoT: Riscos e Mitigações em Ambientes Conectados"
   - "A Nova Realidade do Trabalho Remoto: Riscos e Boas Práticas de Cibersegurança para Empresas Distribuídas"
   - "LGPD: Impactos e Desafios na Adaptação de Pequenas Empresas às Novas Regras de Proteção de Dados"
+ 
+# 4º BIMESTRE
 
 # Regras para Correção
 
