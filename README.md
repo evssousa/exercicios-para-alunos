@@ -6,7 +6,7 @@ Confira sua turma e complete o exercício no tempo estimado.
 Boas práticas!
 
 # O que formará sua nota?
-## ✅ [FINALIZADO] 1º bimestre:
+### ✅ [FINALIZADO] 1º bimestre:
 - ✅ [FINALIZADO] Projeto 1: escrevendo um artigo (15/fev)
 - ✅ [FINALIZADO] Projeto 2: criando um site com navegação (15/fev)
 - ✅ [FINALIZADO] Projeto 3: lista de álbuns (15/fev)
