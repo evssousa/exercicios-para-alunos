@@ -6,7 +6,7 @@ Confira sua turma e complete o exercício no tempo estimado.
 Boas práticas!
 
 # O que formará sua nota?
-## 1º bimestre:
+## ✅ [FINALIZADO] 1º bimestre:
 - ✅ [FINALIZADO] Projeto 1: escrevendo um artigo (15/fev)
 - ✅ [FINALIZADO] Projeto 2: criando um site com navegação (15/fev)
 - ✅ [FINALIZADO] Projeto 3: lista de álbuns (15/fev)
@@ -15,7 +15,7 @@ Boas práticas!
 - ✅ [FINALIZADO] Desenvolvimento de um site utilizando conhecimentos vistos em sala e dos projetos desenvolvidos.
 
 ## 2º bimestre:
-### Programação Web
+### ✅ [FINALIZADO] Programação Web
 - ✅ [FINALIZADO] Projeto 6: sistema de login (23/abr)
 - ✅ [FINALIZADO] Projeto Comentado: Calc.js (09/mai)
 - ✅ [FINALIZADO] Projeto 7: cadastro de devs (13/mai)
@@ -23,7 +23,7 @@ Boas práticas!
 - ✅ [FINALIZADO] Continuação do desenvolvimento do site utilizando conhecimentos vistos em sala de aula e dos projeots desenvolvidos, sendo obrigatório a inclusão de Javascript de forma que dê funcionalidade ao site (06/jun) - 5 pts
 - ✅ [FINALIZADO] <b>Projeto 8: portfolio de projetos (13/jun) - válido para alunos que possuem parcial abaixo de 6. Ao completar esse projeto, o aluno terá sua parcial equivalente a 6.</b>
 
-### Gestão de Startup I
+### ✅ [FINALIZADO] Gestão de Startup I
 - ✅ [FINALIZADO] Projeto Instagram: Minha Startup (03/jun) - variável, max 6pt (seg * 6 / 100)
 - ✅ [FINALIZADO] Trabalho: Análise Gráfica: SWOT e CSD (03/jun)
 - ✅ [FINALIZADO] Entrega dos cadernos de campo (05/jun)
@@ -47,9 +47,9 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - ✅ [FINALIZADO] Projeto 2: feira das profissões - (06/set) (+3 pontos extras em qualquer disciplina)
 - ✅ [FINALIZADO] Projeto pessoal: minha startup - aperfeiçoamento da statup da Gestão de Startup I (16/set)
 
-### Segurança da Informação
+### ✅ [FINALIZADO] Segurança da Informação
 - ✅ [FINALIZADO] Projeto 1: - identificação de phishing (12/set)
-- ⚠️ [EM ANDAMENTO] Projeto pessoal: breve artigo sobre segurança da informação, em PDF, com capa e mínimo 3 folhas de conteúdo (18/set)
+- ✅ [FINALIZADO] Projeto pessoal: breve artigo sobre segurança da informação, em PDF, com capa e mínimo 3 folhas de conteúdo (18/set)
   Exemplos de temas:
   - "Estratégias de Implementação de Políticas de Segurança da Informação em Pequenas e Médias Empresas"
   - "Criptografia na Proteção de Dados Sensíveis: Análise Comparativa de Métodos de Criptografia em Ambientes Corporativos"
