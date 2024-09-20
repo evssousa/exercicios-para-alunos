@@ -58,6 +58,7 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
   - "LGPD: Impactos e Desafios na Adaptação de Pequenas Empresas às Novas Regras de Proteção de Dados"
  
 # 4º BIMESTRE
+Aguardando...
 
 # Regras para Correção
 
