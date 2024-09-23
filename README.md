@@ -34,13 +34,13 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 
 #### Nota parcial: (média dos projetos + média do projeto pessoal) / 2
 
-### Programação Orientada a Objetos
+### ✅ [FINALIZADO] Programação Orientada a Objetos
 - ✅ [FINALIZADO] Projeto 1: treinando a criação de classes (13/ago)
 - ✅ [FINALIZADO] Projeto 2: simulando um blog com classes (15/ago)
 - ✅ [FINALIZADO] Projeto 3: sistemas de contas bancárias (22/ago)
 - ✅ [FINALIZADO] Projeto 4: personagens para jogo (29/ago)
 - ✅ [FINALIZADO] Projeto comentado 1: luta (12/ago)
-- ⚠️ [EM ANDAMENTO] Projeto pessoal: utilizando todos os conceitos em um projeto (19/set)
+- ✅ [FINALIZADO] Projeto pessoal: utilizando todos os conceitos em um projeto (19/set)
 
 ### ✅ [FINALIZADO] Gestão de Startup II
 - ✅ [FINALIZADO] Projeto 1: criando uma proposta de valor - slide/img/pdf no Github (03/set)
