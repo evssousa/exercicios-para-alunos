@@ -3,13 +3,13 @@
 DATA DE ENTREGA: 16/OUT | DATA DE CORREÇÃO: 23/OUT
 # PROJETO 1 – PRIMEIRO SITE EM REACT
 
-## Ex: Crie um novo projeto React usando o Vite, remova todo o conteúdo inicial do projeto e então reproduza a página HTML abaixo usando JSX:
+## Ex: Crie um novo projeto React usando o Vite, com nome "meu-site", remova todo o conteúdo inicial do projeto e então reproduza a página HTML abaixo usando JSX:
 
 Imagem utilizada no exercício:
 
 <img src="./react.png">
 
-Lembrando que você pode utilizá-la coloocando na pasta "public" do Vite (usando o caminho "/nome-da-imagem.png")
+Lembrando que você pode utilizá-la colocando na pasta "public" do Vite (usando o caminho "/nome-da-imagem.png")
 
 Página HTML a ser reproduzida:
 
