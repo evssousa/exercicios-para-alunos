@@ -64,7 +64,7 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 # DEMANDAS DO PROJETO COLETIVO: CONTADOR DE NÚMEROS
 1 - CONFIGURAÇÃO DO AMBIENTE COM VITE E INICIAÇÃO DO PROJETO (entrega até 24/out)<br>
 Configure o ambiente com vite e inicie um projeto react do zero<br>
-Aluno com a demanda: AGUARDANDO...
+Aluno com a demanda: Evilen Barreto
 
 # Regras para Correção
 
