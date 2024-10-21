@@ -59,7 +59,7 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
  
 # 4º BIMESTRE
 ### Programação Orientada a Objetos
-- Projeto 1: primeiro site em react (16/out)
+- ✅ [FINALIZADO] Projeto 1: primeiro site em react (16/out)
 
 # DEMANDAS DO PROJETO COLETIVO: CONTADOR DE NÚMEROS
 1 - CONFIGURAÇÃO DO AMBIENTE COM VITE E INICIAÇÃO DO PROJETO (entrega até 24/out)<br>
