@@ -1,9 +1,0 @@
-Herança é um recurso que permite criar classes que incluem, ou "herdam". Para ser mais preciso, todos os atributos e métodos de uma outra classe.
-
-A classe que é herdada damos o nome de superclass (ou classe mãe), e a classe que herda, o nome de subclass (ou classe filha).
-
-Uma classe filha possui todos os atributos e métodos da classe mãe, mas também pode possuir os seus próprios (que serão exclusivos dela).
-
-Exemplos:
-- Imagine uma classe User que possui seus atributos e métodos. Poderíamos ter classes AdminUser, EditorUser e StandardUser que são todas filhas de User, mas cada uma também possui seus próprios atributos e métodos.
-- Ou ainda uma classe Property (como um imóvel) pode ser a classe mãe das classes filhas House e Apartment.

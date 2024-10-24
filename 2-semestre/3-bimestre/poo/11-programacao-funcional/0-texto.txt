@@ -1,9 +1,0 @@
-Nas outra aulas aprendemos o conceito geral sobre programação orientação a objeto aplicado a classes.
-
-Orientação a Objeto é uma coisa, Classes são outras.
-
-Programação funcional quando fazendo uma aplicação com conceitos de orientação a objetos, mas o padrão, é que o código será criado com uma série de funções conversando entre si.
-
-Exemplo, quando um botão quando clicado faz uma ação, executando assim uma função. Então isso é uma programação funcional.
-
-Então, quando fazemos nosso sistema utilizando funções, onde elas se comunicam.

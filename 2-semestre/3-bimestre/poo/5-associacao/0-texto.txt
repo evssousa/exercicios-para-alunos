@@ -1,7 +1,0 @@
-Uma associação é um relacionamento entre classes que permite que uma instância de uma classe faça a outra realizar uma ação.
-
-É como dizer para a aplicação que um objeto de um tipo está conectado, ou depende, de um objeto de outro tipo.
-
-Exemplos: 
-- Objetos de uma classe Person possuem um atributo que é um objeto da classe Address.
-- Objetos de uma classe Product possuem um atributo que é um array de objetos da classe Category.

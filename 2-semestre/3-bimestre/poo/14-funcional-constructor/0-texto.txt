@@ -1,5 +1,0 @@
-Quando estavamos trabalhando com classes, nós tinhamos um método constructor que cria as propriedades da classe para depois instanciar.
-
-Na programação funcional não há constructor, já que a função já cria o próprio objeto e a instância é ele mesmo.
-
-Objetos não tem construtor, somente classes que tem construtor!
