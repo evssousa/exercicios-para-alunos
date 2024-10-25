@@ -66,9 +66,25 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - ✅ [FINALIZADO] Projeto 2: cartão de aprendizagem (15/out)
 
 # DEMANDAS DO PROJETO COLETIVO: CONTADOR DE NÚMEROS
-1 - CONFIGURAÇÃO DO AMBIENTE COM VITE E INICIAÇÃO DO PROJETO (entrega até 24/out)<br>
-Configure o ambiente com vite e inicie um projeto react do zero<br>
+✅ 1 - CONFIGURAÇÃO DO AMBIENTE COM VITE E INICIAÇÃO DO PROJETO (entrega até 24/out)<br>
+configure o ambiente com vite e inicie um projeto react do zero<br>
 Aluno com a demanda: Evilen Barreto
+
+2	- COMPONENTE FUNCIONAL COUNTER (entrega até 31/out)<br>
+crie um componente Counter que exibe o valor inicial do contador (0)
+Aluno com a demanda: Jovencio Rodrigues
+
+3	- BOTÃO DE INCREMENTO (entrega até 31/out)<br>
+crie um botão que incrementa o valor do contador
+Aluno com a demanda: Paulo Henrique
+
+4 -	BOTÃO DE DECREMENTO (entrega até 31/out)<br>
+crie um segundo botão que decrementa o valor do contador
+Aluno com a demanda: Jose Ray
+
+5 -	CSS BÁSICO PARA ESTILIZAR O CONTADOR E OS BOTÕES (entrega até 31/out)<br>
+estilize o contador para que fique centralizado na tela
+Aluno com a demanda: Francisco Itamar
 
 # Regras para Correção
 
