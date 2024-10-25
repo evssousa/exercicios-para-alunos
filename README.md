@@ -75,15 +75,15 @@ crie um componente Counter que exibe o valor inicial do contador (0)
 Aluno com a demanda: Jovencio Rodrigues
 
 3	- BOTÃO DE INCREMENTO (entrega até 31/out)<br>
-crie um botão que incrementa o valor do contador
+crie um botão que incrementa o valor do contador<br>
 Aluno com a demanda: Paulo Henrique
 
 4 -	BOTÃO DE DECREMENTO (entrega até 31/out)<br>
-crie um segundo botão que decrementa o valor do contador
+crie um segundo botão que decrementa o valor do contador<br>
 Aluno com a demanda: Jose Ray
 
 5 -	CSS BÁSICO PARA ESTILIZAR O CONTADOR E OS BOTÕES (entrega até 31/out)<br>
-estilize o contador para que fique centralizado na tela
+estilize o contador para que fique centralizado na tela<br>
 Aluno com a demanda: Francisco Itamar
 
 # Regras para Correção
