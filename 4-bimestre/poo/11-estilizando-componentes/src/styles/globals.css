@@ -1,0 +1,10 @@
+/* 2. segunda forma é criando a pasta styles para organização dos arquivos CSS, ainda de forma global */
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    color: #f64348;
+    font-size: 2rem;
+}
