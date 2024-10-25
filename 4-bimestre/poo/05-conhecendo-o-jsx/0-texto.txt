@@ -1,0 +1,7 @@
+JSX é uma extensão da linguagem javascript.
+
+Não é entendido pelo navegador, deve ser compilado (pelo Babel, por exemplo).
+
+É o formato usado pelo React para representar os elementos do DOM.
+
+Facilita o processo de escrita do conteúdo que deve ser renderizado na tela.
