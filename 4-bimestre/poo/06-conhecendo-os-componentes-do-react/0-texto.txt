@@ -1,0 +1,9 @@
+Componentes são pequenos blocos que compõem uma interface.
+
+Direferente do HTML tradicional, onde escrevemos a página inteira em um arquivo, componentes definem pequenos blocos reutilizáveis e extensíveis.
+    - imagem
+
+Vantagens:
+    -  podem ser escritos uma vez e reutilizado várias vezes facilmente.
+    - tornam o processo de modificar uma parte específica da interface muito mais fácil (ex: mudar o componente de botão atualiza todos os botões da interface).
+    - deixa a estrutura de um projeto mais organizada, com cada arquivo responsável por uma pequena parte ao invés de toda a página.
