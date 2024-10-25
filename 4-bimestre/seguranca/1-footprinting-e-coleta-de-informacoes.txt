@@ -1,0 +1,52 @@
+Comandos básicos usados no terminal:
+- sudo apt-get update (atualiza os pacotes do linux)
+- sudo apt-get upgrade (instala as atualizações)
+    obs: sudo é a forma de dar permissão de super administrador
+- ls (mostra as pastas)
+- cd /pasta (caminha até a pasta)
+- cd ../ (volta a uma pasta)
+- pwd (mostra o caminho da pasta)
+
+Site para ataque: https://bancocn.com
+
+COLETA DE INFORMAÇÕES
+- copiar email e informações da página de contato. Guardar em um bloco de notas.
+Email: contato@bancocn.com
+Tel: +835 66 7070
+
+- ir até o who.is para ver informações do domínio.
+Também é possível colocar no terminal: whois bancocn.com
+Guardar no bloco de nota os Name Servers
+Name Server: NOEL.NS.CLOUDFLARE.COM
+Name Server: MEGAN.NS.CLOUDFLARE.COM
+Também é possível ver sobre domínio brasileiros no site registro.br > tecnologia > ferramentas > serviços e diretório whois
+
+- pesquisar por ip. Comando: host bancocn.com e ver no whois número-ip
+bancocn.com has address 172.67.192.199
+bancocn.com has address 104.21.52.8
+Também é possível verificar os email, fazendo um host email e depois pegando o ip e mandando o comando whois num_ip.
+
+OBS: não fazer varredura (portscan) em qualquer site importante, pois você poderá ser notificado!
+
+- também podemos pegar informações por dns. Comando: dnsnum bancocn.com
+
+- iremos ver o nano nome_do_arquivo.txt, o editor de texto.
+- cat nome_do_arquivo mostra o que tem no arquivo.
+
+- criar agora um arquivo de wordlist. Comando: nano wordlistdominios.txt
+Colocar os domínios que poderá existir. Exemplos:
+www
+admin
+administrador
+painel
+webmail
+mail
+seila
+asdasd
+
+- executar o programa: python dsnbrute.py bancocn.com wordlistdominios.txt
+Irá mostrar algumas informações, como endereços de ip.
+
+- podemos encontrar informações no google com: site:bancocn.com
+- também com bancocn.com/robots.txt
+Descobrimos que existe uma pasta no robots.txt - /admin ou bancocn.com/admin
