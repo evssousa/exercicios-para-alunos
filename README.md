@@ -71,7 +71,7 @@ configure o ambiente com vite e inicie um projeto react do zero<br>
 Aluno com a demanda: Evilen Barreto
 
 2	- COMPONENTE FUNCIONAL COUNTER (entrega até 31/out)<br>
-crie um componente Counter que exibe o valor inicial do contador (0)
+crie um componente Counter que exibe o valor inicial do contador (0)<br>
 Aluno com a demanda: Jovencio Rodrigues
 
 3	- BOTÃO DE INCREMENTO (entrega até 31/out)<br>
