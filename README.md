@@ -70,7 +70,7 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 configure o ambiente com vite e inicie um projeto react do zero<br>
 Aluno com a demanda: Evilen Barreto
 
-2	- COMPONENTE FUNCIONAL COUNTER (entrega até 31/out)<br>
+✅ 2	- COMPONENTE FUNCIONAL COUNTER (entrega até 31/out)<br>
 crie um componente Counter que exibe o valor inicial do contador (0)<br>
 Aluno com a demanda: Jovencio Rodrigues
 
