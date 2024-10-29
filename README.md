@@ -60,6 +60,7 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 # 4º BIMESTRE
 ### Programação Orientada a Objetos
 - ✅ [FINALIZADO] Projeto 1: primeiro site em react (16/out)
+- Projeto 2: criando componente card (25/out)
 
 ### Gestão de Startup II
 - ✅ [FINALIZADO] Projeto 1: cartão de teste (08/out)
