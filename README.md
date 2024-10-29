@@ -75,11 +75,11 @@ Aluno com a demanda: Evilen Barreto
 crie um componente Counter que exibe o valor inicial do contador (0)<br>
 Aluno com a demanda: Jovencio Rodrigues
 
-3	- BOTÃO DE INCREMENTO (entrega até 31/out)<br>
+✅ 3	- BOTÃO DE INCREMENTO (entrega até 31/out)<br>
 crie um botão que incrementa o valor do contador<br>
 Aluno com a demanda: Paulo Henrique
 
-4 -	BOTÃO DE DECREMENTO (entrega até 31/out)<br>
+✅ 4 -	BOTÃO DE DECREMENTO (entrega até 31/out)<br>
 crie um segundo botão que decrementa o valor do contador<br>
 Aluno com a demanda: Jose Ray
 
