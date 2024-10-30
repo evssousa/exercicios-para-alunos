@@ -83,9 +83,17 @@ Aluno com a demanda: Paulo Henrique
 crie um segundo botão que decrementa o valor do contador<br>
 Aluno com a demanda: Jose Ray
 
-5 -	CSS BÁSICO PARA ESTILIZAR O CONTADOR E OS BOTÕES (entrega até 31/out)<br>
+✅ 5 -	CSS BÁSICO PARA ESTILIZAR O CONTADOR E OS BOTÕES (entrega até 31/out)<br>
 estilize o contador para que fique centralizado na tela<br>
 Aluno com a demanda: Francisco Itamar
+
+6 -	VERIFICAÇÃO PARA IMPEDIR VALORES NEGATIVOS (entrega até 1/nov)<br>
+modifique o contador para que não aceite valores negativos<br>
+Aluno com a demanda: Ana Vitória
+
+7 -	COMPONENTE BUTTON SEPARADO PARA OS BOTÕES (entrega até 1/nov)<br>
+refatore o código para extrair os botões como um componente separado<br>
+Aluno com a demanda: Evellyn Cleyciane
 
 # Regras para Correção
 
