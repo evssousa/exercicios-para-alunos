@@ -87,7 +87,7 @@ Aluno com a demanda: Jose Ray
 estilize o contador para que fique centralizado na tela<br>
 Aluno com a demanda: Francisco Itamar
 
-6 -	VERIFICAÇÃO PARA IMPEDIR VALORES NEGATIVOS (entrega até 1/nov)<br>
+✅ 6 -	VERIFICAÇÃO PARA IMPEDIR VALORES NEGATIVOS (entrega até 1/nov)<br>
 modifique o contador para que não aceite valores negativos<br>
 Aluno com a demanda: Ana Vitória
 
