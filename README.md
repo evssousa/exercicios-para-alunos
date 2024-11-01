@@ -91,7 +91,7 @@ Aluno com a demanda: Francisco Itamar
 modifique o contador para que não aceite valores negativos<br>
 Aluno com a demanda: Ana Vitória
 
-7 -	COMPONENTE BUTTON SEPARADO PARA OS BOTÕES (entrega até 1/nov)<br>
+✅ 7 -	COMPONENTE BUTTON SEPARADO PARA OS BOTÕES (entrega até 1/nov)<br>
 refatore o código para extrair os botões como um componente separado<br>
 Aluno com a demanda: Evellyn Cleyciane
 
