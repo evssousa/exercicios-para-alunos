@@ -95,6 +95,26 @@ Aluno com a demanda: Ana Vitória
 refatore o código para extrair os botões como um componente separado<br>
 Aluno com a demanda: Evellyn Cleyciane
 
+8 -	FUNÇÕES DE INCREMENTO E DECREMENTO COMO PROPS PARA O BUTTON (entrega até 6/nov)<br>
+refatore o código para passar as funções de incremento/decremento como props<br>
+Aluno com a demanda: 
+
+9 -	BOTÃO DE RESET (entrega até 6/nov)<br>
+crie um botão que reseta o valor do contador para 0<br>
+Aluno com a demanda: 
+
+10 - PROP STEP PARA DEFINIR O PASSO DO INCREMENTO (entrega até 6/nov)<br>
+permita que o contador aceite uma prop step para definir o valor do incremento<br>
+Aluno com a demanda: 
+
+11 - TÍTULO DINÂMICO COM O VALOR DO CONTADOR (entrega até 6/nov)<br>
+exiba dinamicamente o valor do contador em um título h1<br>
+Aluno com a demanda: 
+
+12 - PROP PARA DESABILITAR O BOTÃO DE INCREMENTO QUANDO ATINGIR O VALOR MÁXIMO (entrega até 6/nov)<br>
+crie uma verificação que desabilita o botão quando o contador atinge o valor máximo (por exemplo, 10)<br>
+Aluno com a demanda: 
+
 # Regras para Correção
 
 Para que o exercício seja devidamente corrigido, será preciso seguir os passos abaixo:
