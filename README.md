@@ -65,6 +65,7 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 ### Gestão de Startup II
 - ✅ [FINALIZADO] Projeto 1: cartão de teste (08/out)
 - ✅ [FINALIZADO] Projeto 2: cartão de aprendizagem (15/out)
+- Projeto 3: demonstração de um MVP (05/nov)
 
 # DEMANDAS DO PROJETO COLETIVO: CONTADOR DE NÚMEROS
 ✅ 1 - CONFIGURAÇÃO DO AMBIENTE COM VITE E INICIAÇÃO DO PROJETO (entrega até 24/out)<br>
@@ -114,6 +115,22 @@ Aluno com a demanda: Ana Larissa
 12 - PROP PARA DESABILITAR O BOTÃO DE INCREMENTO QUANDO ATINGIR O VALOR MÁXIMO (entrega até 6/nov)<br>
 crie uma verificação que desabilita o botão quando o contador atinge o valor máximo (por exemplo, 10)<br>
 Aluno com a demanda: Carlos Eduardo
+
+13 - FRAGMENT PARA REMOVER DIVS DESNECESSÁRIAS<br>
+utilize Fragment (<> </>) no JSX para evitar divs desnecessárias<br>
+Aluno com a demanda: Nicolas
+
+14 - MENSAGEM DE ERRO QUANDO O VALOR FOR NEGATIVO<br>
+exiba "valor não pode ser negativo!" ao tentar decrementar abaixo de 0<br>
+Aluno com a demanda: Carlos Daniel
+
+15 - BOTÃO PARA DOBRAR O VALOR DO CONTADOR<br>
+crie um novo botão que, ao clicar, dobra o valor do contador<br>
+Aluno com a demanda: Anderson Barbosa
+
+16 - BOTÃO DE REVERSÃO<br>
+crie um botão que reverta o contador para valor anterior (antes do último clique)<br>
+Aluno com a demanda: Júlia Barros
 
 # Regras para Correção
 
