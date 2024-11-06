@@ -68,51 +68,51 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 - ✅ [FINALIZADO] Projeto 3: demonstração de um MVP (05/nov)
 
 # DEMANDAS DO PROJETO COLETIVO: CONTADOR DE NÚMEROS
-✅ 1 - CONFIGURAÇÃO DO AMBIENTE COM VITE E INICIAÇÃO DO PROJETO (entrega até 24/out)<br>
+✅ 1 - CONFIGURAÇÃO DO AMBIENTE COM VITE E INICIAÇÃO DO PROJETO<br>
 configure o ambiente com vite e inicie um projeto react do zero<br>
 Aluno com a demanda: Evilen Barreto
 
-✅ 2	- COMPONENTE FUNCIONAL COUNTER (entrega até 31/out)<br>
+✅ 2	- COMPONENTE FUNCIONAL COUNTER<br>
 crie um componente Counter que exibe o valor inicial do contador (0)<br>
 Aluno com a demanda: Jovencio Rodrigues
 
-✅ 3	- BOTÃO DE INCREMENTO (entrega até 31/out)<br>
+✅ 3	- BOTÃO DE INCREMENTO<br>
 crie um botão que incrementa o valor do contador<br>
 Aluno com a demanda: Paulo Henrique
 
-✅ 4 -	BOTÃO DE DECREMENTO (entrega até 31/out)<br>
+✅ 4 -	BOTÃO DE DECREMENTO<br>
 crie um segundo botão que decrementa o valor do contador<br>
 Aluno com a demanda: Jose Ray
 
-✅ 5 -	CSS BÁSICO PARA ESTILIZAR O CONTADOR E OS BOTÕES (entrega até 31/out)<br>
+✅ 5 -	CSS BÁSICO PARA ESTILIZAR O CONTADOR E OS BOTÕES<br>
 estilize o contador para que fique centralizado na tela<br>
 Aluno com a demanda: Francisco Itamar
 
-✅ 6 -	VERIFICAÇÃO PARA IMPEDIR VALORES NEGATIVOS (entrega até 1/nov)<br>
+✅ 6 -	VERIFICAÇÃO PARA IMPEDIR VALORES NEGATIVOS<br>
 modifique o contador para que não aceite valores negativos<br>
 Aluno com a demanda: Ana Vitória
 
-✅ 7 -	COMPONENTE BUTTON SEPARADO PARA OS BOTÕES (entrega até 1/nov)<br>
+✅ 7 -	COMPONENTE BUTTON SEPARADO PARA OS BOTÕES<br>
 refatore o código para extrair os botões como um componente separado<br>
 Aluno com a demanda: Evellyn Cleyciane
 
-✅ 8 -	FUNÇÕES DE INCREMENTO E DECREMENTO COMO PROPS PARA O BUTTON (entrega até 6/nov)<br>
+✅ 8 -	FUNÇÕES DE INCREMENTO E DECREMENTO COMO PROPS PARA O BUTTON<br>
 refatore o código para passar as funções de incremento/decremento como props<br>
 Aluno com a demanda: Gustavo Almeida
 
-9 -	BOTÃO DE RESET (entrega até 6/nov)<br>
+9 -	BOTÃO DE RESET<br>
 crie um botão que reseta o valor do contador para 0<br>
 Aluno com a demanda: Ana Luiza
 
-10 - PROP STEP PARA DEFINIR O PASSO DO INCREMENTO (entrega até 6/nov)<br>
+10 - PROP STEP PARA DEFINIR O PASSO DO INCREMENTO<br>
 permita que o contador aceite uma prop step para definir o valor do incremento<br>
 Aluno com a demanda: Jimmy Icaro
 
-11 - TÍTULO DINÂMICO COM O VALOR DO CONTADOR (entrega até 6/nov)<br>
+11 - TÍTULO DINÂMICO COM O VALOR DO CONTADOR<br>
 exiba dinamicamente o valor do contador em um título h1<br>
 Aluno com a demanda: Ana Larissa
 
-12 - PROP PARA DESABILITAR O BOTÃO DE INCREMENTO QUANDO ATINGIR O VALOR MÁXIMO (entrega até 6/nov)<br>
+12 - PROP PARA DESABILITAR O BOTÃO DE INCREMENTO QUANDO ATINGIR O VALOR MÁXIMO<br>
 crie uma verificação que desabilita o botão quando o contador atinge o valor máximo (por exemplo, 10)<br>
 Aluno com a demanda: Carlos Eduardo
 
