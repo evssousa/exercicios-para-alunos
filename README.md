@@ -65,7 +65,7 @@ Avaliações Parciais: 16 à 20 de setembro | Avaliações Bimestrais: 23 à 27 
 ### Gestão de Startup II
 - ✅ [FINALIZADO] Projeto 1: cartão de teste (08/out)
 - ✅ [FINALIZADO] Projeto 2: cartão de aprendizagem (15/out)
-- Projeto 3: demonstração de um MVP (05/nov)
+- ✅ [FINALIZADO] Projeto 3: demonstração de um MVP (05/nov)
 
 # DEMANDAS DO PROJETO COLETIVO: CONTADOR DE NÚMEROS
 ✅ 1 - CONFIGURAÇÃO DO AMBIENTE COM VITE E INICIAÇÃO DO PROJETO (entrega até 24/out)<br>
@@ -96,7 +96,7 @@ Aluno com a demanda: Ana Vitória
 refatore o código para extrair os botões como um componente separado<br>
 Aluno com a demanda: Evellyn Cleyciane
 
-8 -	FUNÇÕES DE INCREMENTO E DECREMENTO COMO PROPS PARA O BUTTON (entrega até 6/nov)<br>
+✅ 8 -	FUNÇÕES DE INCREMENTO E DECREMENTO COMO PROPS PARA O BUTTON (entrega até 6/nov)<br>
 refatore o código para passar as funções de incremento/decremento como props<br>
 Aluno com a demanda: Gustavo Almeida
 
