@@ -101,7 +101,7 @@ Aluno com a demanda: Evellyn Cleyciane
 refatore o código para passar as funções de incremento/decremento como props<br>
 Aluno com a demanda: Gustavo Almeida
 
-9 -	BOTÃO DE RESET<br>
+✅ 9 -	BOTÃO DE RESET<br>
 crie um botão que reseta o valor do contador para 0<br>
 Aluno com a demanda: Ana Luiza
 
