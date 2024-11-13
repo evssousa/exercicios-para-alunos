@@ -105,11 +105,11 @@ Aluno com a demanda: Gustavo Almeida
 crie um botão que reseta o valor do contador para 0<br>
 Aluno com a demanda: Ana Luiza
 
-10 - PROP STEP PARA DEFINIR O PASSO DO INCREMENTO<br>
+❌ 10 - PROP STEP PARA DEFINIR O PASSO DO INCREMENTO<br>
 permita que o contador aceite uma prop step para definir o valor do incremento<br>
 Aluno com a demanda: Jimmy Icaro
 
-11 - TÍTULO DINÂMICO COM O VALOR DO CONTADOR<br>
+✅ 11 - TÍTULO DINÂMICO COM O VALOR DO CONTADOR<br>
 exiba dinamicamente o valor do contador em um título h1<br>
 Aluno com a demanda: Ana Larissa
 
