@@ -113,25 +113,14 @@ Aluno com a demanda: Jimmy Icaro
 exiba dinamicamente o valor do contador em um título h1<br>
 Aluno com a demanda: Ana Larissa
 
-12 - PROP PARA DESABILITAR O BOTÃO DE INCREMENTO QUANDO ATINGIR O VALOR MÁXIMO<br>
-crie uma verificação que desabilita o botão quando o contador atinge o valor máximo (por exemplo, 10)<br>
-Aluno com a demanda: Carlos Eduardo
-
-13 - FRAGMENT PARA REMOVER DIVS DESNECESSÁRIAS<br>
-utilize Fragment (<> </>) no JSX para evitar divs desnecessárias<br>
-Aluno com a demanda: Nicolas
-
-14 - MENSAGEM DE ERRO QUANDO O VALOR FOR NEGATIVO<br>
-exiba "valor não pode ser negativo!" ao tentar decrementar abaixo de 0<br>
-Aluno com a demanda: Carlos Daniel
-
-15 - BOTÃO PARA DOBRAR O VALOR DO CONTADOR<br>
-crie um novo botão que, ao clicar, dobra o valor do contador<br>
-Aluno com a demanda: Anderson Barbosa
-
-16 - BOTÃO DE REVERSÃO<br>
-crie um botão que reverta o contador para valor anterior (antes do último clique)<br>
-Aluno com a demanda: Júlia Barros
+12 - ESTILIZAÇÃO CONDICIONAL DO VALOR DO CONTADOR
+alterar dinamicamente a cor do valor do contador com base em seu valor atual. Verde quando o valor for positivo, vermelho quando o valor for zero.
+Resultado Esperado: a cor do texto do contador muda dinamicamente de acordo com o valor atual.
+Etapas:
+1. atualização do componente Counter.jsx
+2. atualização do arquivo styles.css
+3. teste do projeto
+Aluno: Carlos Eduardo
 
 # Regras para Correção
 
