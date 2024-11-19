@@ -113,14 +113,13 @@ Aluno com a demanda: Jimmy Icaro
 exiba dinamicamente o valor do contador em um título h1<br>
 Aluno com a demanda: Ana Larissa
 
-12 - ESTILIZAÇÃO CONDICIONAL DO VALOR DO CONTADOR
-alterar dinamicamente a cor do valor do contador com base em seu valor atual. Verde quando o valor for positivo, vermelho quando o valor for zero.
-Resultado Esperado: a cor do texto do contador muda dinamicamente de acordo com o valor atual.
-Etapas:
+12 - ESTILIZAÇÃO CONDICIONAL DO VALOR DO CONTADOR | Aluno: Carlos Eduardo<br>
+alterar dinamicamente a cor do valor do contador com base em seu valor atual. Verde quando o valor for positivo, vermelho quando o valor for zero.<br>
+Resultado Esperado: a cor do texto do contador muda dinamicamente de acordo com o valor atual.<br>
+<br>Etapas:<br>
 1. atualização do componente Counter.jsx
 2. atualização do arquivo styles.css
 3. teste do projeto
-Aluno: Carlos Eduardo
 
 # Regras para Correção
 
