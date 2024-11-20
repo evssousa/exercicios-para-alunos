@@ -113,9 +113,17 @@ Aluno com a demanda: Jimmy Icaro
 exiba dinamicamente o valor do contador em um título h1<br>
 Aluno com a demanda: Ana Larissa
 
-12 - ESTILIZAÇÃO CONDICIONAL DO VALOR DO CONTADOR | Aluno: <s>Carlos Eduardo</s>, Linda Isabele<br>
+✅ 12 - ESTILIZAÇÃO CONDICIONAL DO VALOR DO CONTADOR | Aluno: <s>Carlos Eduardo</s>, Linda Isabele<br>
 alterar dinamicamente a cor do valor do contador com base em seu valor atual. Verde quando o valor for positivo, vermelho quando o valor for zero.<br>
 Resultado Esperado: a cor do texto do contador muda dinamicamente de acordo com o valor atual.<br>
+<br>Etapas:<br>
+1. atualização do componente Counter.jsx
+2. atualização do arquivo styles.css
+3. teste do projeto
+
+13 - BOTÃO PARA DOBRAR O VALOR DO CONTADOR | Aluno: Anderson<br>
+adicionar um botão que, ao ser clicado, dobra o valor do contador.<br>
+Resultado Esperado: o botão Dobrar deve multiplicar o valor do contador por 2. A cor e o título dinâmico também devem ser atualizadas.<br>
 <br>Etapas:<br>
 1. atualização do componente Counter.jsx
 2. atualização do arquivo styles.css
