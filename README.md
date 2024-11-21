@@ -116,7 +116,7 @@ Aluno com a demanda: Ana Larissa
 ✅ 12 - ESTILIZAÇÃO CONDICIONAL DO VALOR DO CONTADOR | Aluno: <s>Carlos Eduardo</s>, Linda Isabele<br>
 alterar dinamicamente a cor do valor do contador com base em seu valor atual. Verde quando o valor for positivo, vermelho quando o valor for zero.<br>
 Resultado Esperado: a cor do texto do contador muda dinamicamente de acordo com o valor atual.<br>
-<br>Etapas:<br>
+Etapas:<br>
 1. atualização do componente Counter.jsx
 2. atualização do arquivo styles.css
 3. teste do projeto
@@ -124,15 +124,15 @@ Resultado Esperado: a cor do texto do contador muda dinamicamente de acordo com 
 ✅ 13 - BOTÃO PARA DOBRAR O VALOR DO CONTADOR | Aluno: Anderson<br>
 adicionar um botão que, ao ser clicado, dobra o valor do contador.<br>
 Resultado Esperado: o botão Dobrar deve multiplicar o valor do contador por 2. A cor e o título dinâmico também devem ser atualizadas.<br>
-<br>Etapas:<br>
+Etapas:<br>
 1. atualização do componente Counter.jsx
 2. atualização do arquivo styles.css
 3. teste do projeto
 
-14 - BOTÃO DE REVERSÃO | Aluno: Francisco Fabricio<br>
+✅ 14 - BOTÃO DE REVERSÃO | Aluno: Francisco Fabricio<br>
 adicionar um botão que, ao ser clicado, restaura o contador para o valor anterior da última alteração.<br>
 Resultado Esperado: o botão Reverter deve restaurar o contador para o valor anterior da última alteração. A funcionalidade deve ser integrada com os outros botões, sem conflitos.<br>
-<br>Etapas:<br>
+Etapas:<br>
 1. atualização do componente Counter.jsx
 2. atualização do arquivo styles.css
 3. teste do projeto
