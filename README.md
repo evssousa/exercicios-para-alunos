@@ -147,9 +147,17 @@ Etapas:<br>
 2. atualização do arquivo styles.css
 3. teste do projeto
 
-16 - BOTÃO DE MULTIPLICAÇÃO | Aluno: Gabriel Marinho<br>
+✅ 16 - BOTÃO DE MULTIPLICAÇÃO | Aluno: Gabriel Marinho<br>
 criar um botão que multiplica o valor do contador por 10.<br>
 Resultado Esperado: um novo botão "Multiplicar x10", onde ao ser clicado, o valor atual será multiplicado por 10.<br>
+Etapas:<br>
+1. atualização do componente Counter.jsx
+2. atualização do arquivo styles.css
+3. teste do projeto
+
+17 - BOTÃO DE DIVISÃO | Aluno: YASMIM RIBEIRO<br>
+crie um botão que divide o valor do contador por 10.<br>
+Resultado Esperado: um novo botão "Dividir x10", onde ao ser clicado, o valor atual será dividido por 10.<br>
 Etapas:<br>
 1. atualização do componente Counter.jsx
 2. atualização do arquivo styles.css
