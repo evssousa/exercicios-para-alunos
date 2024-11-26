@@ -155,9 +155,17 @@ Etapas:<br>
 2. atualização do arquivo styles.css
 3. teste do projeto
 
-17 - BOTÃO DE DIVISÃO | Aluno: YASMIM RIBEIRO<br>
+✅ 17 - BOTÃO DE DIVISÃO | Aluno: Yasmim Ribeiro<br>
 crie um botão que divide o valor do contador por 10.<br>
 Resultado Esperado: um novo botão "Dividir x10", onde ao ser clicado, o valor atual será dividido por 10.<br>
+Etapas:<br>
+1. atualização do componente Counter.jsx
+2. atualização do arquivo styles.css
+3. teste do projeto
+
+18 - BOTÃO PARA ADICIONAR VALOR FIXO +5 | Aluno: Marcio Gabriel<br>
+adicione um botão que incremente o contador por um valor fixo predefinido, por exemplo, 5.<br>
+Resultado Esperado: clique no botão "Adicionar +5" para aumentar o valor do contador em 5 unidades a cada clique. O valor será atualizado dinamicamente na tela. O contador continuará exibindo as classes de estilo (positivo, zero, negativo) dependendo do valor.<br>
 Etapas:<br>
 1. atualização do componente Counter.jsx
 2. atualização do arquivo styles.css
