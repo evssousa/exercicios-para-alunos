@@ -163,9 +163,17 @@ Etapas:<br>
 2. atualização do arquivo styles.css
 3. teste do projeto
 
-18 - BOTÃO PARA ADICIONAR VALOR FIXO +5 | Aluno: Marcio Gabriel<br>
+✅ 18 - BOTÃO PARA ADICIONAR VALOR FIXO +5 | Aluno: Marcio Gabriel<br>
 adicione um botão que incremente o contador por um valor fixo predefinido, por exemplo, 5.<br>
 Resultado Esperado: clique no botão "Adicionar +5" para aumentar o valor do contador em 5 unidades a cada clique. O valor será atualizado dinamicamente na tela. O contador continuará exibindo as classes de estilo (positivo, zero, negativo) dependendo do valor.<br>
+Etapas:<br>
+1. atualização do componente Counter.jsx
+2. atualização do arquivo styles.css
+3. teste do projeto
+
+19 - BOTÃO PARA SUBTRAIR VALOR FIXO -3 | Aluno: Nicolas Felipe<br>
+adicione um botão que decrementa o contador por um valor fixo predefinido, por exemplo, 3.<br>
+Resultado Esperado: clique no botão "Subtrair -3" para subtrair o valor do contador em 3 unidades a cada clique. O valor será atualizado dinamicamente na tela. O contador continuará exibindo as classes de estilo (positivo, zero, negativo) dependendo do valor.<br>
 Etapas:<br>
 1. atualização do componente Counter.jsx
 2. atualização do arquivo styles.css
