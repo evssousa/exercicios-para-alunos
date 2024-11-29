@@ -171,7 +171,7 @@ Etapas:<br>
 2. atualização do arquivo styles.css
 3. teste do projeto
 
-19 - BOTÃO PARA SUBTRAIR VALOR FIXO -3 | Aluno: Nicolas Felipe<br>
+19 - BOTÃO PARA SUBTRAIR VALOR FIXO -3 | Aluno: <s>Nicolas Felipe</s>, Davi<br>
 adicione um botão que decrementa o contador por um valor fixo predefinido, por exemplo, 3.<br>
 Resultado Esperado: clique no botão "Subtrair -3" para subtrair o valor do contador em 3 unidades a cada clique. O valor será atualizado dinamicamente na tela. O contador continuará exibindo as classes de estilo (positivo, zero, negativo) dependendo do valor.<br>
 Etapas:<br>
