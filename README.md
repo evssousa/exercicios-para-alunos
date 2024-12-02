@@ -171,13 +171,20 @@ Etapas:<br>
 2. atualização do arquivo styles.css
 3. teste do projeto
 
-19 - BOTÃO PARA SUBTRAIR VALOR FIXO -3 | Aluno: <s>Nicolas Felipe</s>, Davi<br>
+✅ 19 - BOTÃO PARA SUBTRAIR VALOR FIXO -3 | Aluno: <s>Nicolas Felipe</s>, Davi<br>
 adicione um botão que decrementa o contador por um valor fixo predefinido, por exemplo, 3.<br>
 Resultado Esperado: clique no botão "Subtrair -3" para subtrair o valor do contador em 3 unidades a cada clique. O valor será atualizado dinamicamente na tela. O contador continuará exibindo as classes de estilo (positivo, zero, negativo) dependendo do valor.<br>
 Etapas:<br>
 1. atualização do componente Counter.jsx
 2. atualização do arquivo styles.css
 3. teste do projeto
+
+20 - LIMITE DO VALOR MÁXIMO | Aluno: Julia Barros<br>
+adicione um valor máximo ao contador, por exemplo, 1.000. Caso o valor atinja 1.000, os botões de incrementos serão desabilitados, impedindo que o valor continue a ser incrementado.<br>
+Resultado Esperado: o contador começa em 0 e aumenta de acordo com os botões de incrementação. Quando o valor chegar a 1.000, os botões de incrementos serão desabilitados, impedindo que o contador ultrapasse o valor máximo. O valor do contador é exibido dinamicamente e atualizado na interface.<br>
+Etapas:<br>
+1. atualização do componente Counter.jsx
+2. teste do projeto
 
 # Regras para Correção
 
