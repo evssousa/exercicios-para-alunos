@@ -1,3 +1,7 @@
+# DISTRIBUIÇÃO DE PONTOS DO 4º BIMESTRE
+Abaixo o link para distribuição de pontos do 4º bimestre. Link disponível até 11/12.
+<br>Link: https://forms.gle/GLfTw7UrpahfDHxcA
+
 # Exercícios para os Alunos
 Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da escola EEEP Deputado Roberto Mesquita.
 
