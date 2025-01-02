@@ -1,6 +1,0 @@
-Conhecendo o Virtual DOM
-- o problema das atualizações na interfaces
-- a solução do React: o Virtual DOM
-    - uma cópia virtual do DOM onde fazemos todas as nossas alterações na interface
-    - o React então compara o DOM virtual com o DOM real e renderiza novamente todas as partes que mudaram
-- problemas de performance?
