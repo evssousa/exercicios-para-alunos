@@ -7,7 +7,7 @@ Boas práticas!
 
 # 1º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
-### 📱 Desenvolvimento para Dispositivos Móveis 
+### 🖥️ Qualidade e Testes de Software 
 Aguardando projetos...
 
 ### 📈 Gestão de Startup III
@@ -15,7 +15,7 @@ Aguardando projetos...
 
 # 2º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
-### 📱 Desenvolvimento para Dispositivos Móveis 
+### 🖥️ Qualidade e Testes de Software 
 Aguardando projetos...
 
 ### 📈 Gestão de Startup III
