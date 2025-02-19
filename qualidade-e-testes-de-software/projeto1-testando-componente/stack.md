@@ -136,6 +136,8 @@ Faça um teste unitário de um componente no React. Siga o passo a passo da aula
 **Tarefa:**
 
 1. Criar um componente de sua escolha, com obrigatoriedade de uso do `fireEvent()`.
-2. Escrever os testes e retornar PASS.
+2. Não criar o mesmo componente do exemplo acima. Pode ser usado como base, mas não pode ser plagiado!
+3. Escrever os testes do componente desenvolvido.
+4. Testar o componente e retornar PASS
 
 Boas práticas! :call_me_hand:
