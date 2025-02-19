@@ -10,7 +10,7 @@ Faça um teste unitário de um componente no React. Siga o passo a passo da aula
 - Passo 1: Criar um novo projeto React usando o Vite:
     
     ```bash
-    npm create vite@latest
+    npm create vite@latest .
     
     ```
     
