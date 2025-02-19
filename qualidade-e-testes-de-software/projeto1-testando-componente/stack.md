@@ -1,7 +1,7 @@
 #### PROFESSOR: EVERSON SOUSA | TURMA: 3º EM DESENVOLVIMENTO DE SISTEMAS
 
 DATA DE ENTREGA: 19/FEV
-# PROJETO 2 – TESTANDO COMPONENTE
+# PROJETO 1 – TESTANDO COMPONENTE
 
 Faça um teste unitário de um componente no React. Siga o passo a passo da aula anterior para fazer a instação:
 
