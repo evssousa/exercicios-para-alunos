@@ -77,7 +77,7 @@ Faça um teste unitário de um componente no React. Siga o passo a passo da aula
 
 **React Testing Library: Interagindo com os Componentes:**
 
-- **IAPI da React Testing Library:**
+- **API da React Testing Library:**
     - **render:** Para renderizar os componentes no ambiente de teste.
     - **screen:** Para acessar os elementos renderizados de maneira mais intuitiva.
     - **fireEvent:** Para disparar eventos como clicks, mudanças de input, etc.
