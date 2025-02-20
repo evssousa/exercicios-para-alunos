@@ -8,7 +8,7 @@ Boas práticas!
 # 1º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
 ### 🖥️ Qualidade e Testes de Software 
-Aguardando projetos...
+✅ [FINALIZADO] Projeto 1: Testando componente (23/fev)
 
 ### 📈 Gestão de Startup III
 Aguardando projetos...
