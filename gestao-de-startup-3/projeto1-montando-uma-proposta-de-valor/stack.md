@@ -5,7 +5,7 @@ DATA DE ENTREGA: 24/FEV
 
 Proposta de Valor - Conceito: 
 
-A proposta de valor se trata do benefício que a solução irá proporcionar ao cliente, o porquê do cliente escolher sua solução ao invés da concorrência. 
+A <b>proposta de valor</b> se trata do benefício que a solução irá proporcionar ao cliente, o porquê do cliente escolher sua solução ao invés da concorrência. 
 
 O objetivo é levar ao cliente uma ideia clara, concisa e transparente de como determinado negócio pode ser relevante para ele. 
 
@@ -13,7 +13,7 @@ O desenvolvimento dessa ideia é uma das principais etapas de estratégias de pl
 
 Uma boa proposta de valor precisa ter clareza, linguagem assertiva, transparência e direcionamento. 
 
-Exemplo: Trello permite que você trabalhe de maneira mais colaborativa e faça mais.
+<b>Exemplo: Trello permite que você trabalhe de maneira mais colaborativa e faça mais.</b>
 
 <img src="./trelo-logo.png">
 
