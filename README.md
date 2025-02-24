@@ -11,7 +11,8 @@ Avaliações Parciais: - | Avaliações Bimestrais: -
 ✅ [FINALIZADO] Projeto 1: Testando componente (23/fev)
 
 ### 📈 Gestão de Startup III
-Aguardando projetos...
+- Projeto 1: Montando uma proposta de valor (24/fev)
+- Projeto 2: Construtindo um business model canva (24/fev)
 
 # 2º BIMESTRE
 Avaliações Parciais: - | Avaliações Bimestrais: -
