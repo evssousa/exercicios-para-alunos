@@ -24,7 +24,9 @@ Vamos agora ver como ele deve ser preenchido.
 <img src="https://cdn.prod.website-files.com/62e89931273b5c21be76c486/63c8144a0284d2c7c500adec_canva_easy_taxi-1000x600-1.jpeg">
 
 ### Vamos ao projeto!
-Monte business model canvas seguindo o arquivo auxiliar "ex2-modelo-model-canva-e-proposta-de-valor-pptx". No final, poste no seu Github. 
+Monte business model canvas seguindo o arquivo auxiliar "ex2-modelo-model-canva-e-proposta-de-valor-pptx". No final, poste no seu Github. Caso ja de preferência, você poderá utilizar o arquivo auxiliar de exemplo para criar seu próprio modelo.
+
+O projeto deverá ser desenvolvido em dupla, ambos devem ter seus projetos postados em seus respectivos Githubs e <b>adicionado o parceiro como colaborador.</b>
 
 O tema utilizado é livre.
 
