@@ -26,6 +26,7 @@ Vamos agora ver como ele deve ser preenchido.
 ### Vamos ao projeto!
 Monte business model canvas seguindo o arquivo auxiliar "ex2-modelo-model-canva-e-proposta-de-valor-pptx". No final, poste no seu Github. Caso ja de preferência, você poderá utilizar o arquivo auxiliar de exemplo para criar seu próprio modelo.
 
+#### ATENÇÃO:
 O projeto deverá ser desenvolvido em dupla, ambos devem ter seus projetos postados em seus respectivos Githubs e <b>adicionado o parceiro como colaborador.</b>
 
 O tema utilizado é livre.
