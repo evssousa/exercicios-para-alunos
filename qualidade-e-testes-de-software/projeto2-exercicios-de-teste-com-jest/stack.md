@@ -1,3 +1,8 @@
+#### PROFESSOR: EVERSON SOUSA | TURMA: 3º EM DESENVOLVIMENTO DE SISTEMAS
+
+DATA DE ENTREGA: 26/FEV
+# PROJETO 2 – EXERCICIOS DE TESTE COM JEST
+
 Desenvolva o que se pede abaixo e teste com o Jest:
 
 1 - (0.5 pontos) Criar as funções `subtrai(a, b)`, `ehPar(n)`, que verifica se um número é par e `contarCaracteres(texto)`, que retorna o número de caracteres de uma string. Depois teste com o Jest. (`calculadora.js`)
