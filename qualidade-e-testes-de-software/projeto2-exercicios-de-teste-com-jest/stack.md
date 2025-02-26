@@ -127,7 +127,7 @@ module.exports = { calcularMedia, verificaAprovacao, adicionarNota };
 
 ```
 
-✅ **O que foi testado?**
+✅ **O que deve ser testado?**
 
 ✔️ Média das notas corretamente.
 
