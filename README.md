@@ -6,11 +6,14 @@ Complete o exercício no tempo estimado.
 Boas práticas!
 
 # 1º BIMESTRE
-Avaliações Parciais: - | Avaliações Bimestrais: -
 ### 🖥️ Qualidade e Testes de Software 
+Avaliação Parcial: 09/abr | Avaliação Bimestral: 26/mar <br>
+Projeto Pessoal: Desenvolvimento de um sistema contendo 10 testes, onde todos devem passar. O sistema deve ter uma lógica que faça sentido com uso real e ser feito somente em Javascript puro com conceitos utilizados na lógica de programação (individual).
 ✅ [FINALIZADO] Projeto 1: Testando componente (23/fev)
 
 ### 📈 Gestão de Startup III
+Avaliação Parcial: 08/abr | Avaliação Bimestral: 26/mar <br>
+Projeto Pessoal: Inicio da documentação/registro e desenvolvimento do projeto social (toda a sala).
 - Projeto 1: Montando uma proposta de valor (24/fev)
 - Projeto 2: Construtindo um business model canva (24/fev)
 
